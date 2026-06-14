@@ -60,15 +60,3 @@ pip install -r requirements.txt
 - Condition Number & Matrix Analysis
 
 ---
-
-## Status
-
-🎯 **LITE EDITION** — Minimal copy dari template lengkap
-- Identitas: Kosong (template)
-- Dokumentasi: Simplified
-- File: 28 soal komplit
-- Prefix: `soal11_XX.py`
-
----
-
-*Python 3.x — NumPy · SciPy · Matplotlib*
